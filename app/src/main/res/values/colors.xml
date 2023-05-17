@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="HomeActivityBackground">#000</color>
+    <color name="bottom_text_color">#000</color>
+    <color name="bottom_item_colot">#000</color>
+    <color name="btn_start_share">#52D887</color>
+    <color name="main_text_color">#fff</color>
+    <color name="see_more_color">#3952D5</color>
+    <color name="background_edit">#000</color>
+    <color name="background_button_unselect">#615D5D</color>
+    <color name="icon_color">#fff</color>
+    <color name="btn_un_active">#615D5D</color>
+    <color name="onclick">#686464</color>
+    <color name="btn_find">#494646</color>
+    <color name="mripper">#63635F</color>
+    <color name="start_color">#572E88</color>
+    <color name="end_color">#FFBB86FC</color>
+    <color name="ripper_color">#E6E6DB</color>
+    <color name="helper_text_color">#DC0D25</color>
+    <color name="enable_btn">#5E5E57</color>
+</resources>
